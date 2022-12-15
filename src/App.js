@@ -6,6 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>JSX</h1>
+        <div className="container">
+          <h1>This is my 1st react app</h1>
+        </div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
